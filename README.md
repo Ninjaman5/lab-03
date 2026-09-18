@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `Samuel`
-- **CCID:** `Zong`
+- **Full Name:** `Samuel Zong`
+- **CCID:** `mzong`
 
 ## References and Resources
 
